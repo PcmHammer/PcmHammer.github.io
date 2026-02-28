@@ -45,3 +45,16 @@
   color: #0085a1;
   font-weight: 600;
 }
+
+/* Trim the masthead height so the banner isn't overly tall */
+header.masthead {
+  padding-top: calc(3rem + 57px);
+  padding-bottom: 3rem;
+}
+
+@media (min-width: 992px) {
+  header.masthead {
+    padding-top: calc(4rem + 57px);
+    padding-bottom: 4rem;
+  }
+}
