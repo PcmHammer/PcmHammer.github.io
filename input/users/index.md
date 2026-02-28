@@ -29,7 +29,7 @@ Extract the contents of the zip file, and run PcmHammer.exe or PcmLogger.exe.
 
 ### What else will I need?
 
-You'll need an OBD2 interface that supports J1850 VPW communications (J1850 VPW is the OBD2 variant used by the PCMs that the app supports). [Click here for a list of supported devices.](/pages/supporteddevices/) Or click the "Supported Devices" link in the sidebar.
+You'll need an OBD2 interface that supports J1850 VPW communications (J1850 VPW is the OBD2 variant used by the PCMs that the app supports). [Click here for a list of supported devices.](/users/supported-devices/) Or click the "Supported Devices" link in the sidebar.
 
 You'll need a copy of Tuner Pro, so that you can edit the tune. You can get Tuner Pro from http://tunerpro.net
 
@@ -41,7 +41,7 @@ https://github.com/BoredTruckOwner/LS_Based_Engine_Repository
 
 https://github.com/Snoman002/Engine-Tune-Repository-TunerPro-EFIlive-TunerCat/tree/master/General%20Motors
 
-Every PCM operating system requires a unique XDF file - do not use an XDF file that was created for a different operating system! If there is no XDF for your PCM's operating system, you will need to switch operating systems. See [this wiki page](/pages/operating-systems/) for more information about upgrading to a supported operating system.
+Every PCM operating system requires a unique XDF file - do not use an XDF file that was created for a different operating system! If there is no XDF for your PCM's operating system, you will need to switch operating systems. See [this wiki page](/users/operating-systems/) for more information about upgrading to a supported operating system.
 
 ### Where can I connect with the community of PCM Hammer users?
 

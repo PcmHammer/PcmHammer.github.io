@@ -25,7 +25,7 @@ You should probably switch operating systems. Please see this wiki page for deta
 
 Don't panic. In most cases everything will return to normal after a minute or so. However, in some cases the PCM will need to be rebooted by pulling the fuse. (Merely turning off the ignition will not suffice, because the PCM will still be powered by the battery.)
     
-Currently there is a known issue with the AllPro interface which sometimes leads to this situation. (See the [Supported Devices](users/supported-devices) page.) We're working it, and we apologize for the inconvenience.  
+Currently there is a known issue with the AllPro interface which sometimes leads to this situation. (See the [Supported Devices](/users/supported-devices) page.) We're working it, and we apologize for the inconvenience.  
     
 Pull the PCM fuse (or fuses), wait 10 seconds, replace the fuses, wait 30 seconds, and everything will be fine.
 

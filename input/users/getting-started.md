@@ -3,7 +3,7 @@ Title: Getting Started
 IsPage: true
 ShowInNavbar: false
 ---
-1. Buy a supported interface. Currently, the OBDX Pro interfaces are the best option (VT, VX, or GT all work equally well). See the [supported devices](/users/supporteddevices/) page for other options.
+1. Buy a supported interface. Currently, the OBDX Pro interfaces are the best option (VT, VX, or GT all work equally well). See the [supported devices](/users/supported-devices/) page for other options.
 1. Download a copy of PCM Hammer.
 1. Connect your PC to your PCM.
 1. Click "Select Device" and choose the COM port and device type.
