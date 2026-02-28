@@ -34,7 +34,7 @@ jobs:
       - name: Checkout  
         uses: actions/checkout@v6
         with:
-          ref: Statiq
+          submodules: 'true'
       
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v2  
