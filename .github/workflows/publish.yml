@@ -4,7 +4,7 @@ name: Statiq Web Deploy
 on:
   # Triggers the workflow on push but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: [ "Statiq" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -46,7 +46,7 @@ jobs:
         run: dotnet run
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           # Upload output only
           path: './output'
