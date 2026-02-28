@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<id>/</id>
-	<title>My Blog</title>
-	<link rel="self" href="/" />
-	<rights>Copyright © 2026</rights>
-	<updated>2026-02-28T05:22:59Z</updated>
-</feed>

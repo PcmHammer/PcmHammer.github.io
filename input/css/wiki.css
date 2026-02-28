@@ -1,0 +1,47 @@
+/* Wiki sidebar styles */
+.wiki-sidebar {
+  position: sticky;
+  top: 80px;
+  padding-left: 1rem;
+  border-left: 3px solid #e9ecef;
+  font-size: 0.9rem;
+}
+
+.wiki-sidebar h5 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6c757d;
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
+
+.wiki-sidebar h5:first-child {
+  margin-top: 0;
+}
+
+.wiki-sidebar ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.wiki-sidebar li {
+  line-height: 1.8;
+}
+
+.wiki-sidebar a {
+  color: #404040;
+  text-decoration: none;
+}
+
+.wiki-sidebar a:hover {
+  color: #0085a1;
+  text-decoration: underline;
+}
+
+/* Active page highlight */
+.wiki-sidebar a.active {
+  color: #0085a1;
+  font-weight: 600;
+}
