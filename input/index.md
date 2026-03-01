@@ -2,6 +2,7 @@
 Title: Welcome!
 ContentType: Content
 ShowInNavbar: false
+HeaderImage: /PcmHammerBanner.jpg
 ---
 
 <center>
