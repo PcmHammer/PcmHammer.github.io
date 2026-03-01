@@ -2,6 +2,12 @@
 
 Repository for the PCM Hammer website
 
+## Local Setup
+
+You'll need .Net Framework 10
+
+Visual Studio Code works fine. Proper Visual Studio doesn't add much, since 99% of the work here just in markdown files. I haven't needed to debug Statiq at all.
+
 ## Local Workflow
 
 This uses Statiq to convert markdown and other files into an HTML website.
@@ -21,10 +27,16 @@ Note that changes to the overlay files are not processed in real time - you will
 
 Also note that there is only one change in the overlay file, which changes the site title from "My Blog" to "PCM Hammer".
 
-# Helpful Commands
+## Helpful Commands
 
 * `dotnet run -- preview` - this will build the site and start an HTTP server on port 5080. Note that this command will never exis, because it continues to serve the site.
 * `dotnet run` this will build the site and then exit.
+
+## Deployment
+
+Every merge to the Statiq branch triggers this GitHub workflow, which builds the HTML files uploads them to GitHub Pages automagically:
+
+https://github.com/PcmHammer/PcmHammer.github.io/blob/Statiq/.github/workflows/publish-statiq.yml
 
 # Resources
 
