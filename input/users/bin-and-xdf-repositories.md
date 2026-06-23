@@ -27,6 +27,5 @@ https://github.com/BoredTruckOwner/LS_Based_Engine_Repository
 
 Even if you can find the XDF for your PCM's operating system, you might still be better off switching to one of the most-used operating systems. They will have the best XDF support over time since that's where most of the reverse engineering will be happening.
 
-See this page for details:
+See [this page](/users/operating-systems) for help choosing the best operating system to switch to.
 
-/pages/operating-systems/
