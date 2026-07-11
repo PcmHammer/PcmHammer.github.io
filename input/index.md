@@ -9,7 +9,7 @@ HeaderImage: /PcmHammerBanner.jpg
 
 | | |
 |-|-|
-|[<img src="/download.svg" height="100" width="100">](https://github.com/LegacyNsfw/PcmHacks/releases/tag/2022.05.14.01)|[&nbsp; Download &nbsp;](https://github.com/LegacyNsfw/PcmHacks/releases/tag/2022.05.14.01)|
+|[<img src="/download.svg" height="100" width="100">](https://github.com/PcmHammer/PcmHammer/releases)|[&nbsp; Download &nbsp;](https://github.com/PcmHammer/PcmHammer/releases)|
 | &nbsp; | |
 |[<img src="/page.svg" height="100" width="100">](/users)|[&nbsp; Documentation &nbsp;](/users)|
 | &nbsp; | |
