@@ -20,7 +20,7 @@ You will need a computer that runs Windows.
 
 ### Where can I get it?
 
-Here: https://github.com/LegacyNsfw/PcmHacks/releases
+Here: https://github.com/PcmHammer/PcmHammer/releases
 
 The most recent release will be at the top of that page.
 
