@@ -15,7 +15,7 @@ This is a bit tricky. It's not for everyone.
 
 What is it? https://en.wikipedia.org/wiki/Background_debug_mode_interface
 
-What hardware do you need? https://www.usbjtag.com/zenshop/index.php?main_page=product_info&cPath=1&products_id=11
+What hardware do you need? Go to https://www.usbjtag.com/ then click the "U-Link NT" link on the left side.
 
 ## How do you hook it up? 
 
