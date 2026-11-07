@@ -12,15 +12,15 @@ These were used in several General Motors vehicles from 1999-2007 that had V8 en
 
 |LS-series V8 vehicles &nbsp; &nbsp; &nbsp;|From &nbsp; &nbsp; &nbsp;|To &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Notes|
 |:-|:-|:-|:-|
-|Chevy Corvette|1999|2004|99 and 00 use the "896" P01, 01-03 use the "411" P01 <br> 2004 uses the P59|
-|Chevy F-Body / Camaro|1999|2002|99 and 00 use the 896, 01-02 use the 411|
+|Chevy Corvette|1999|2004|99 and 00 use the "896" P01 <br> 01-03 use the "411" P01 <br> 2004 uses the P59|
+|Chevy F-Body / Camaro|1999|2002|99 and 00 use the 896 <br> 01-02 use the 411|
 |Pontiac GTO|2004|2004|LS1, P59|
 |Cadillac CTS-V|2004|2005|LS6, P59|
-|Chevy Silverado|1999|2007|99-02 use the P01, 03-07 use the P59 |
-|Chevy Express Van V8|2001|2007|01-02 use the P01 w/ 4x reluctor, 03-07 use the P59 w/ 24x|
+|Chevy Silverado|1999|2007|99-02 use the P01 <br> 03-07 use the P59 |
+|Chevy Express Van V8|2001|2007|01-02 use the P01 w/ 4x reluctor <br> 03-07 use the P59 w/ 24x|
 |Possibly others|?|?| |
 |**4.3L V6 vehicles**|**From**|**To**| |
-|Chevy S10 V6|2001|2004|01-02 use the P01, 03-04 use the P59 |
+|Chevy S10 V6|2001|2004|01-02 use the P01 <br> 03-04 use the P59 |
 |Chevy Express Van|?|?| |
 |GMC Savana Van|?|?| |
 |Chevy Blazer|?|?| |
@@ -28,6 +28,8 @@ These were used in several General Motors vehicles from 1999-2007 that had V8 en
 |Chevy S10|?|?| |
 |GMC Sonoma|?|?| |
 |Isuzu anything|-|-|Not supported. They use GM hardware, but not GM software.|
+
+That's rather incomplete - if you can help fill in the blanks, please open an issue or pull-request at GitHub - see the links at the bottom of the page.
 
 # P04
 
